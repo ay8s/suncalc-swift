@@ -29,7 +29,7 @@ public struct SunTimes {
                         sunriseEnd: table[.sunriseEnd]!,
                         sunsetStart: table[.sunsetStart]!,
                         dawn: table[.dawn]!,
-                        dusk: table[.sunrise]!,
+                        dusk: table[.dusk]!,
                         nauticalDawn: table[.nauticalDawn]!,
                         nauticalDusk: table[.nauticalDusk]!,
                         nightEnd: table[.nightEnd]!,
